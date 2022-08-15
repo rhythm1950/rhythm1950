@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhythm1950&label=Profile%20views&color=0e75b6&style=flat" alt="rhythm1950" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhythm1950" alt="rhythm1950" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shahriarrhythm" target="blank"><img src="https://img.shields.io/twitter/follow/shahriarrhythm?logo=twitter&style=for-the-badge" alt="shahriarrhythm" /></a> </p>
 
 - 🔭 Web Developer at [Devs Core, Dhaka](https://devscore.com/)
@@ -28,6 +26,8 @@
 - 📄 Professional Summary [https://drive.google.com/file/d/14G7eM0V3BF1MVRVuCe2tKrrPG7kyYVx1/view?usp=sharing](https://drive.google.com/file/d/14G7eM0V3BF1MVRVuCe2tKrrPG7kyYVx1/view?usp=sharing)
 
 - ⚡ Fun fact **Passionate, quick learner, creative UI designer, efficient problem solver**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhythm1950" alt="rhythm1950" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
