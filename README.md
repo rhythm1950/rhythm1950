@@ -1,4 +1,5 @@
 ![logo](https://github.com/rhythm1950/rhythm1950/blob/main/github%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Shahriar Rhythm</h1>
 <h3 align="center">Full-Stack Web Developer || UI/UX Designer || WordPress Enthusiast</h3>
 
@@ -8,19 +9,23 @@
 
 <p align="left"> <a href="https://twitter.com/shahriarrhythm" target="blank"><img src="https://img.shields.io/twitter/follow/shahriarrhythm?logo=twitter&style=for-the-badge" alt="shahriarrhythm" /></a> </p>
 
-- 🔭 I’m currently working on [Devs Core](https://devscore.com/)
+- 🔭 Web Developer at [Devs Core, Dhaka](https://devscore.com/)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular, Vue, Django**
 
-- 👨‍💻 All of my projects are available at [https://shahriarrhythm.com/](https://shahriarrhythm.com/)
+- 👯 Former WordPress Designer & Developer at [NU. NC, USA](https://nuagency.com/)
+
+- 🤝 Former Web Development Intern at [LinkYou Inc, Canada](https://linkyou.marketing/)
+
+- 👨‍💻 My Portfolio Website [https://shahriarrhythm.com/](https://shahriarrhythm.com/)
 
 - 📝 I regularly write articles on [https://shahriarrhythm.com/](https://shahriarrhythm.com/)
 
-- 💬 Ask me about **React.js**
+- 💬 Enthusiast in **React.js, WordPress**
 
 - 📫 How to reach me **rhythmshahriar0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14G7eM0V3BF1MVRVuCe2tKrrPG7kyYVx1/view?usp=sharing](https://drive.google.com/file/d/14G7eM0V3BF1MVRVuCe2tKrrPG7kyYVx1/view?usp=sharing)
+- 📄 Professional Summary [https://drive.google.com/file/d/14G7eM0V3BF1MVRVuCe2tKrrPG7kyYVx1/view?usp=sharing](https://drive.google.com/file/d/14G7eM0V3BF1MVRVuCe2tKrrPG7kyYVx1/view?usp=sharing)
 
 - ⚡ Fun fact **Passionate, quick learner, creative UI designer, efficient problem solver**
 
@@ -38,3 +43,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhythm1950&show_icons=true&locale=en" alt="rhythm1950" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhythm1950&" alt="rhythm1950" /></p>
+
