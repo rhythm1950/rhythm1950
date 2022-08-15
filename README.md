@@ -1,3 +1,4 @@
+![logo](https://github.com/rhythm1950/rhythm1950/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Shahriar Rhythm</h1>
 <h3 align="center">Full-Stack Web Developer || UI/UX Designer || WordPress Enthusiast</h3>
 
