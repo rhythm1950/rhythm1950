@@ -1,6 +1,6 @@
 ![logo](https://github.com/rhythm1950/rhythm1950/blob/main/github%20pro%20banner.png)
 
-<h1 align="center">Hi 👋, I'm Shahriar Rhythm</h1>
+<h1 align="center">Hi 👋, This is Shahriar Rhythm</h1>
 <h3 align="center">Full-Stack Web Developer || UI/UX Designer || WordPress Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhythm1950&label=Profile%20views&color=0e75b6&style=flat" alt="rhythm1950" /> </p>
