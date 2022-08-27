@@ -27,8 +27,6 @@
 
 - ⚡ Fun fact **Passionate, quick learner, creative UI designer, efficient problem solver**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhythm1950" alt="rhythm1950" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shahriarrhythm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahriarrhythm" height="30" width="40" /></a>
