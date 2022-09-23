@@ -9,7 +9,7 @@
 
 - 🔭 Web Developer at [Devs Core, Dhaka, Bangladesh](https://devscore.com/)
 
-- 👯 Former WordPress Designer & Developer at [NU, USA](https://nuagency.com/)
+- 👯 Former WordPress Designer & Developer at [Nu, USA](https://nuagency.com/)
 
 - 🤝 Former Web Development Intern at [LinkYou Inc, Canada](https://linkyou.marketing/)
 
